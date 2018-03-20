@@ -2,5 +2,7 @@
 
 BIRON Nolann & BORDAS Pierre
 
-# npm install -g
-# trelloapp
+Pour initialiser le projet : npm install -g </br>
+Pour lancer le script : trelloapp
+
+La board trello reliée au projet est : https://trello.com/b/t8pDuaKB/node
